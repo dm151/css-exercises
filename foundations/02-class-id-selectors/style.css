@@ -1,0 +1,21 @@
+/* style.css */
+
+.background {
+    background-color: indianred;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#bluefont {
+    color: blue;
+    font-size: 36px;
+}
+
+#fontsize {
+    font-size: 24px;
+}
+
+#greenback {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
